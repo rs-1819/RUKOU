@@ -1,6 +1,6 @@
 # Rukou: An AI Chatbot Assistant
 
-Rukou is an AI chatbot designed to help users with various tasks and engage in meaningful conversations. Powered by OpenAI's GPT-3 language model, Rukou utilizes semantic search to dynamically insert relevant information from past conversations and knowledge bases, providing context-aware responses.
+Rukou is an AI chatbot designed to help users with various tasks and engage in meaningful conversations. Powered by OpenAI's GPT-4 language model, Rukou utilizes semantic search to dynamically insert relevant information from past conversations and knowledge bases, providing context-aware responses.
 
 ## Features
 
