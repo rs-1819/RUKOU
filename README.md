@@ -15,22 +15,6 @@ Rukou is an AI chatbot designed to help users with various tasks and engage in m
 - Python 3.x
 - OpenAI API key
 
-## Installation
-
-1. Clone the repository:
-
-```
-git clone https://github.com/your-username/rukou-chatbot.git
-cd rukou-chatbot
-```
-
-2. Install the required dependencies:
-
-```
-pip install openai
-```
-
-3. Replace the `openai.api_key` value in `main.py` with your own OpenAI API key.
 
 ## Usage
 
